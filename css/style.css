@@ -1,0 +1,36 @@
+.background_navbar {
+  width: 1440px;
+  height: 84px;
+  opacity: 0.3352015398550725;
+  background-color: #000000;
+}
+
+.qw{
+	  font-family: Lato;
+  font-size: 42px;
+}
+
+.contenido2{
+  width: 559px;
+  height: 128px;
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2777777777777777;
+  letter-spacing: -0.25714290142059326px;
+  text-align: justify;
+  color: #404040;
+  padding-right: 50px;
+}
+
+.backnav{
+
+	background-color: #00000050;
+	border-bottom: 1px solid #2cb8c7;
+}
+ul.uli li {
+    display: flex;
+    list-style: none;
+}
