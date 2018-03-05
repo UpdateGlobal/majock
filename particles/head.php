@@ -26,4 +26,7 @@
       <link rel="stylesheet" type="text/css" href="css/bootstrap-reboot.css">
       <link rel="stylesheet" type="text/css" href="css/style.css">
      <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+
+     <link rel="stylesheet" href="css/owl.carousel.css">
+      <link rel="stylesheet" href="css/owl.theme.default.css">
   </head>

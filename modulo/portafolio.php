@@ -5,13 +5,15 @@
 				<h3>Estamos listos para ayudar en el crecimiento de tu negocio</h3>	
 			</div>
 		</div>	
-		<div class="row my-5" >
+		<div class="row" >
 			<div class="col-md-12" align="center">
-				<ul style="display: flex;list-style: none;">
+				<h1>hola</h1>
+				
+			<!-- 	<ul style="display: flex;list-style: none;">
 					<li style="width: 50px; height: 3px;border-bottom:solid 4px#2cb8c7; margin-top: 10px; margin-right: 10px;"></li>
 					<li><i class="fas fa-book" style="color: #2cb8c7;"></i></li>
 					<li style="width: 50px; height: 3px;border-bottom:solid 4px#2cb8c7; margin-top: 10px; margin-left: 10px;"></li>
-				</ul>
+				</ul> -->
 			</div>							
 		</div>
 		<div class="row my-5">

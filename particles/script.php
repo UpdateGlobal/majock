@@ -5,11 +5,39 @@
 <script type="text/javascript" src="js/bootstrap.bundle.js"></script>
 <script type="text/javascript" src="js/bootstrap.js"></script>
 
+<script src="jquery.min.js"></script>
+<script src="js/owl.carousel.js"></script>
+
 <script type="text/javascript">
 
 	$(document).ready(function() {
 		$('.carousel').carousel()
 
 	}); 
+	$(document).ready(function(){
+			$('.owl-carousel').owlCarousel({
+			    loop:true,
+			    margin:10,
+			    nac:false,
+			    autoplay:true,
+    			autoplayTimeout:1500,
+			    responsiveClass:true,
+			    responsive:{
+			        0:{
+			            items:1,
+			            nav:false
+			        },
+			        600:{
+			            items:3,
+			            nav:false
+			        },
+			        1000:{
+			            items:5,
+			            nav:true,
+			            loop:false
+			        }
+			    }
+			})
+	});
 
 </script>

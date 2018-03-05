@@ -12,6 +12,9 @@
 		include ('modulo/slide.php');
 		include ('modulo/conetido.php');
 		include ('modulo/portafolio.php');
+		include ('modulo/confian.php');
+		include ('modulo/blogseccion.php');
+		include ('modulo/footer.php');
 		include ('particles/script.php');
 	?>
   </body>

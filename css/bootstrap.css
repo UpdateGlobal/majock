@@ -424,7 +424,7 @@ hr {
   margin-top: 1rem;
   margin-bottom: 1rem;
   border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  border-top: 2px solid rgba(0, 0, 0, 0.1);
 }
 
 small,
@@ -3852,6 +3852,7 @@ tbody.collapse.show {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  color: white;
 }
 
 .nav-link:hover, .nav-link:focus {
@@ -4436,9 +4437,9 @@ tbody.collapse.show {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #f8f8f8;
   background-clip: border-box;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+/*  border: 1px solid rgba(0, 0, 0, 0.125);*/
   border-radius: 0.25rem;
 }
 
@@ -4462,6 +4463,7 @@ tbody.collapse.show {
   -ms-flex: 1 1 auto;
   flex: 1 1 auto;
   padding: 1.25rem;
+  background-color: #f8f8f8;
 }
 
 .card-title {
@@ -4538,8 +4540,8 @@ tbody.collapse.show {
 
 .card-img-top {
   width: 100%;
-  border-top-left-radius: calc(0.25rem - 1px);
-  border-top-right-radius: calc(0.25rem - 1px);
+/*  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);*/
 }
 
 .card-img-bottom {
