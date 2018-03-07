@@ -29,6 +29,7 @@
 
 	background-color: #00000050;
 	border-bottom: 3px solid #2cb8c7;
+  height: 70px;
 }
 ul.uli li {
 
@@ -94,30 +95,42 @@ ul.uli li {
 
 
 
+.fontcont{
+  font-size: 12px;
+  color: #fff;
+  background-color: #2cb8c7;
+
+}
+
+.fontloren{
+  font-family: Lato;
+  font-size: 18px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.2777777777777777;
+  letter-spacing: -0.25714290142059326px;
+  text-align: justify;
+  color: #404040;
+}
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+::-webkit-input-placeholder { /* Chrome */
+  color: red;
+}
+:-ms-input-placeholder { /* IE 10+ */
+  color: red;
+}
+::-moz-placeholder { /* Firefox 19+ */
+  color: red;
+  opacity: 1;
+}
+:-moz-placeholder { /* Firefox 4 - 18 */
+  color: red;
+  opacity: 1;
+}
 
 
 

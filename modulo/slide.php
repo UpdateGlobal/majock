@@ -12,8 +12,8 @@
           <h1 class="qw">AYUDANDO A EXPANDIR TU NEGOCIO</h1>
           <p class="lead" style="  font-family: Lato;
   font-size: 14px;">Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final. Aunque no posee actualmente fuentes para justificar sus hipótesis</p>
-  <button type="button" class="btn btn-success">Success <i class="fas fa-arrow-circle-right"></i></button>
-  <button type="button" class="btn btn-outline-success">Success   <i class="fas fa-arrow-circle-right"></i></button>
+  <button type="button" class="btn btn-success">CONÓCENOS <i class="fas fa-arrow-circle-right"></i></button>
+  <button type="button" class="btn btn-outline-success">CONTÁCTANOS <i class="fas fa-arrow-circle-right"></i></button>
         </div>
     </div>
   </div>

@@ -35,7 +35,7 @@
 				    <div class="col-4 text-white pt-2 pb-5">
 				      Majock Consulting 2018
 				    </div>
-				    <div class="col-4 pb-5" style="margin-right: -80px;">
+				    <div class="col-4 " style="margin-right: -80px;">
 					<ul class="nav justify-content-center ">
 			
 					  <li>

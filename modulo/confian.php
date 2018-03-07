@@ -1,8 +1,8 @@
 <div class="container">
 	<div class="row">
-		<div class="col-sm-12 col-md-12 center">
+		<div class="col-sm-12 col-md-12 p-3">
 
-			<h3 class="text-center">Confían en Majock Consulting</h3>
+			<h3 class="text-center mt-5">Confían en Majock Consulting</h3>
 		
 		</div>
 

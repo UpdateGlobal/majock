@@ -14,8 +14,12 @@
 		include ('modulo/portafolio.php');
 		include ('modulo/confian.php');
 		include ('modulo/blogseccion.php');
+		include ('modulo/contacto.php');
 		include ('modulo/footer.php');
 		include ('particles/script.php');
 	?>
+
+
+
   </body>
 </html>   
