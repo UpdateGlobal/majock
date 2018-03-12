@@ -7,12 +7,7 @@
 		</div>	
 		<div class="row" >
 			<div class="col-md-6" style="left: 30%;" align="center">
-	<!-- 			
-				<ul style="display: flex;list-style: none;">
-					<li style="width: 50px; height: 3px;border-bottom:solid 4px#2cb8c7; margin-top: 10px; margin-right: 10px;"></li>
-					<li><i class="fas fa-book" style="color: #2cb8c7;"></i></li>
-					<li style="width: 50px; height: 3px;border-bottom:solid 4px#2cb8c7; margin-top: 10px; margin-left: 10px;"></li>
-				</ul> -->
+		    <p class="or-divider"><i class="fas fa-bookmark" style="color: #2cb8c7; "></i></p>
 			</div>							
 		</div>
 		<div class="row">
@@ -20,6 +15,12 @@
 				<p class="fontloren text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 			</div>
 		</div>
+	
+<!--galeria-->
+
+
+<!--galeria-->
+
 	</div>
-</div>		
+</div>	
 

@@ -9,16 +9,16 @@
 		</div>
 
 		<div class="owl-carousel owl-theme container pt-5 pb-5">
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
-		    <div class="item"><img src="http://via.placeholder.com/190x110"></div>
+		    <div class="item"><img src="img/logo/1.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/2.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/3.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/4.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/5.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/1.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/2.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/3.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/4.jpg" class="itemcarro"></div>
+		    <div class="item"><img src="img/logo/5.jpg" class="itemcarro"></div>
 		</div>
 
 </div>

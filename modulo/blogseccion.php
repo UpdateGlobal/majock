@@ -26,7 +26,7 @@
 				  </div>
 				</div>
 
-			    <img class="card-img-top" src="http://via.placeholder.com/350x230" alt="Card image cap">
+			    <img class="card-img-top" src="img/post1.jpg" alt="Card image cap">
 
 			    <div class="card-body">
 			      <h5 class="card-title text-left pb-3 ">Lorem Ipsum set indora</h5>
@@ -46,7 +46,7 @@
 				  </div>
 				</div>
 
-			    <img class="card-img-top" src="http://via.placeholder.com/350x230" alt="Card image cap">
+			    <img class="card-img-top" src="img/post2.jpg" alt="Card image cap">
 			    <div class="card-body">
 			      <h5 class="card-title text-left pb-3 ">Lorem Ipsum set indora</h5>
 			      <p class="card-text text-left textstyle">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
@@ -64,7 +64,7 @@
 				  </div>
 				</div>
 
-			    <img class="card-img-top" src="http://via.placeholder.com/350x230" alt="Card image cap">
+			    <img class="card-img-top" src="img/post3.jpg" alt="Card image cap">
 			    <div class="card-body">
 			      <h5 class="card-title text-left pb-3 ">Lorem Ipsum set indora</h5>
 			      <p class="card-text text-left textstyle">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>

@@ -13,6 +13,52 @@
     <div class="col-sm-12 col-md-6 col-lg-6 my-5">
       <h3>Nuestras Fortalezas</h3>
    <div class="line"></div>
+
+
+      <!-- https://www.cssscript.com/pure-css-circular-percentage-bar/ -->
+            <div class="row pt-5">
+              <div class="col-md-4">
+
+                <div class="c100 p50 red">
+                  <span>50%</span>
+                  <div class="slice">
+                    <div class="bar"></div>
+                    <div class="fill"></div>
+                  </div>
+                </div>
+                <p>fortaleza#1</p>
+
+              </div>
+              <div class="col-md-4">
+
+                <div class="c100 p50 orange">
+                  <span>50%</span>
+                  <div class="slice">
+                    <div class="bar"></div>
+                    <div class="fill"></div>
+                  </div>
+                </div>
+                <p>fortaleza#1</p>
+
+              </div>
+              <div class="col-md-4">
+
+                <div class="c100 p50 green">
+                  <span>50%</span>
+                  <div class="slice">
+                    <div class="bar"></div>
+                    <div class="fill"></div>
+                  </div>
+                </div>
+                <p>fortaleza#1</p>
+
+              </div>
+
+            </div>
+
+
+
+
     </div>
   </div>
 </div>

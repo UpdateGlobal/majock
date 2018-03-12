@@ -3165,7 +3165,7 @@ tbody.collapse.show {
   color: #212529;
   text-align: right;
   list-style: none;
-  background-color: #2cb9c9;
+  background-color: #2cb9c97a;
   background-clip: padding-box;
  /* border: 1px solid rgba(0, 0, 0, 0.15);
   border-radius: 0.25rem;*/
@@ -3967,13 +3967,14 @@ tbody.collapse.show {
 }
 
 .navbar-brand {
-  display: inline-block;
-  padding-top: 0.3125rem;
-  padding-bottom: 0.3125rem;
-  margin-right: 1rem;
-  font-size: 1.25rem;
-  line-height: inherit;
-  white-space: nowrap;
+display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 14px;
+    line-height: inherit;
+    white-space: nowrap;
+    color: white;
 }
 
 .navbar-brand:hover, .navbar-brand:focus {

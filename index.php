@@ -4,6 +4,15 @@
   <?php 
     include ('particles/head.php');
   ?>
+
+  <style type="text/css">
+  .bg-primary{
+  transition: all 1s ease;
+}
+
+
+</style>
+
 </head>
   <body>
 	<?php

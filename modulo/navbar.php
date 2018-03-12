@@ -1,46 +1,53 @@
-
-
-<!-- <nav class="navbar fixed-top navbar-expand-lg navbar-light backnav">
-  <div class="container">
-  <a class="navbar-brand" href="#"><img src="img/logo.png"></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  <div class="collapse navbar-collapse" id="navbarText">
- <ul class="nav justify-content-end">
-      <li class="nav-item">
-        <a class="nav-link active" href="#">Active</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
-      </li>
-    </ul> 
-  </div>
- </div> 
-</nav> -->
-
 <style type="text/css">
   
-@media only screen and (min-width: 360px) {
+@media only screen and (min-width: 992px) {
 .less {
   display: none;   !important;
  }
 }
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 992px) {
 .less2 {
   display: none;   !important;
  }
 }
 </style>
 
-<nav class="navbar justify-content-between fixed-top backnav">
-  <div class="container-fluid">
+
+<nav id="menu" class="navbar justify-content-between  fixed-top backnav less2" >
+    <div class="container-fluid">
+   <a class="navbar-brand less2" href="#"><img src="img/logo.png" class="img-fluid" style="margin-left: 0%;"></a>
+    <div class="row" style="margin-right: 0%;">    
+          <div class="dropdown">
+            <a class="dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              MAJOCK CONSULTING<i class="fas fa-arrow-circle-down" style="margin-left: 2px;"></i>
+            </a>
+            <div class="dropdown-menu text-center" aria-labelledby="dropdownMenuButton" style=" margin-top: 17px; left: -15px;">
+              <a class="dropdown-item" href="#">¿Quines Somos?</a>
+              <a class="dropdown-item" href="#">Nuestro Equipo</a>
+            </div>
+          </div>
+      <a class="navbar-brand" href="#">SERVICIOS</a>
+      <a class="navbar-brand" href="#">PRODUCTOS</a>
+      <a class="navbar-brand" href="#">PROYECTOS</a>
+      <a class="navbar-brand" href="#">SOPORTE</a>
+      <a class="navbar-brand" href="#">BLOG</a>
+      <a class="navbar-brand" href="#">CONTACTOS</a>
+      <a class="navbar-brand" href="#">English</a>
+    </div>
+</nav>
+
+
+
+
+
+
+
+<!-- Example single danger button -->
+
+
+
+<nav class="navbar justify-content-between fixed-top backnav less" id="menu">
+  <div class="container-fluid" align="right">
    <a class="navbar-brand less2" href="#"><img src="img/logo.png" class="img-fluid"></a>
 
   <form class="form-inline">
