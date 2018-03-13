@@ -40,23 +40,4 @@
  
      <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css'>
 
-
-
-
-<script>
-      $(window).scroll(function() {
-        if ($("#menu").offset().top > 56) {
-            $("#menu").addClass("luis");
-        } else {
-            $("#menu").removeClass("luis");
-        }
-      });
-</script>
-<style>
-.luis{
-
-  background-color: yellow;
-}
-
-</style>
   </head>

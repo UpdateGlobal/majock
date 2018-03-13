@@ -146,7 +146,7 @@ a:not([href]):not([tabindex]) {
 color: white;
     text-decoration: none;
     margin-top: 10px;
-    font-size: 14px;
+    font-size: 12px;
     margin-right: 12px;
 }
 

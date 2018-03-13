@@ -1,7 +1,12 @@
-<div class="container-fluid" style="background-color: rgba(44, 184, 199, 0.75);">
+<div class="container-fluid lato" style="background-color: rgba(44, 184, 199, 0.75);">
 	<div class="container">
 			<div class="mx-auto p-5 pt-5" style="width:300px;">
-			  <h1 class="text-white">Contáctanos</h1>
+			  <h3 class="text-white lato" style="padding-left: 50px;">Contáctanos</h3>
+	<!-- 					<div class="row">
+								<div class="col-sm-12 col-md-12">
+							   		<p class="or-divider"><i class="far fa-clone" style="color: #2cb8c7; font-size: 25px;"></i></p>
+								</div>							
+						</div> -->
 			</div>
 				<div class="row" align="center">
 				    <div class="col-sm-12 col-md-5"	>

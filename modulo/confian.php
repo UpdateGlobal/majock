@@ -2,7 +2,12 @@
 	<div class="row">
 		<div class="col-sm-12 col-md-12 p-3">
 
-			<h3 class="text-center mt-5">Confían en Majock Consulting</h3>
+			<h3 class="text-center mt-5 lato">Confían en Majock Consulting</h3>
+<!-- 			<div class="row">
+					<div class="col-sm-12 col-md-12">
+				   		<p class="or-divider"><i class="far fa-clone" style="color: #2cb8c7; font-size: 25px;"></i></p>
+					</div>							
+			</div> -->
 		
 		</div>
 

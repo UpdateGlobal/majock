@@ -37,7 +37,7 @@
 			        },
 			        1000:{
 			            items:5,
-			            nav:true,
+			            nav:false,
 			            loop:false
 			        }
 			    }
