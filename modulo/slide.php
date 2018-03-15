@@ -1,4 +1,6 @@
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+
+
+<div id="carouselExampleIndicators" class="carousel slide d-none d-sm-block" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -7,13 +9,32 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/imagen_slider.png" alt="First slide">
-        <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption d-none d-md-block">
           <p class="lucho">EXPERIENCIA DE  25 AÑOS</p>
           <h1 class="qw">AYUDANDO A EXPANDIR TU NEGOCIO</h1>
-          <p class="lead" style="  font-family: Lato;
-  font-size: 14px;">Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final. Aunque no posee actualmente fuentes para justificar sus hipótesis</p>
-  <button type="button" class="btn btn-success">CONÓCENOS <i class="fas fa-arrow-circle-right"></i></button>
-  <button type="button" class="btn btn-outline-success">CONTÁCTANOS <i class="fas fa-arrow-circle-right"></i></button>
+          <p class="lead" style="  font-family: Lato; font-size: 14px;">Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final. Aunque no posee actualmente fuentes para justificar sus hipótesis</p>
+          <button type="button" class="btn btn-success lato">CONÓCENOS <i class="fas fa-arrow-circle-right"></i></button>
+          <button type="button" class="btn btn-outline-success lato">CONTÁCTANOS <i class="fas fa-arrow-circle-right"></i></button>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/imagen_slider.png" alt="Second slide">
+      <div class="carousel-caption d-none d-md-block">
+          <p class="lucho">EXPERIENCIA DE  25 AÑOS</p>
+          <h1 class="qw">AYUDANDO A EXPANDIR TU EMPRESA</h1>
+          <p class="lead" style="  font-family: Lato; font-size: 14px;">Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final. Aunque no posee actualmente fuentes para justificar sus hipótesis</p>
+          <button type="button" class="btn btn-success lato">CONÓCENOS <i class="fas fa-arrow-circle-right"></i></button>
+          <button type="button" class="btn btn-outline-success lato">CONTÁCTANOS <i class="fas fa-arrow-circle-right"></i></button>
+        </div>
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/imagen_slider.png" alt="Third slide">
+      <div class="carousel-caption d-none d-md-block">
+          <p class="lucho">EXPERIENCIA DE  25 AÑOS</p>
+          <h1 class="qw">AYUDANDO A EXPANDIR TUS SERVICIOS</h1>
+          <p class="lead" style="  font-family: Lato; font-size: 14px;">Lorem ipsum es el texto que se usa habitualmente en diseño gráfico en demostraciones de tipografías o de borradores de diseño para probar el diseño visual antes de insertar el texto final. Aunque no posee actualmente fuentes para justificar sus hipótesis</p>
+          <button type="button" class="btn btn-success lato">CONÓCENOS <i class="fas fa-arrow-circle-right"></i></button>
+          <button type="button" class="btn btn-outline-success lato">CONTÁCTANOS <i class="fas fa-arrow-circle-right"></i></button>
         </div>
     </div>
   </div>
@@ -26,5 +47,3 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-

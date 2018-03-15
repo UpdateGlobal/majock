@@ -1,5 +1,26 @@
 
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<!--portafolio-->
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<script type="text/javascript">
+    $(function() {
+    var selectedClass = "";
+    $(".fil-cat").click(function(){ 
+    selectedClass = $(this).attr("data-rel"); 
+     $("#portfolio").fadeTo(100, 0.1);
+    $("#portfolio div").not("."+selectedClass).fadeOut().removeClass('scale-anm');
+    setTimeout(function() {
+      $("."+selectedClass).fadeIn().addClass('scale-anm');
+      $("#portfolio").fadeTo(300, 1);
+    }, 300); 
+    
+  });
+});
+  
+</script>
+
+
+<!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script> -->
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
@@ -10,10 +31,12 @@
 <script src="js/owl.carousel.js"></script>
 
 
+<!--  <script src="js/jquery.knob.js"></script>  -->
+
+
 
 
 <script type="text/javascript">
-
 	$(document).ready(function() {
 		$('.carousel').carousel()
 
@@ -24,7 +47,7 @@
 			    margin:10,
 			    nav:false,
 			    autoplay:true,
-    			autoplayTimeout:1500,
+    			autoplayTimeout:1000,
 			    responsiveClass:true,
 			    responsive:{
 			        0:{
@@ -38,7 +61,6 @@
 			        1000:{
 			            items:5,
 			            nav:false,
-			            loop:false
 			        }
 			    }
 			})

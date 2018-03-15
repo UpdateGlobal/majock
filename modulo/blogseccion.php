@@ -3,9 +3,9 @@
 
 
 
-<div class="container">
+<div class="container pb-5">
 
-				<div class="contaier" align="left">
+				<div class="contaier py-5" align="left">
 					<div class="row">
 						<div class="col-md-12">
 							<h3 class="mt-5 lato">Nuestro blog</h3>
@@ -14,9 +14,9 @@
 					</div>
 				</div>
 
-	<div class="row">
+	<div class="row py-3">
 			<div class="card-deck">
-			  <div class="card m-5">
+			  <div class="card">
 
 				<div class="container">
 				  <div class="row align-items-start">
@@ -36,7 +36,7 @@
 			    <p class="card-text lato" style="color: #2cb8c7; text-align: left; padding-left: 20px;">Seguir Leyendo</p>
 		
 			  </div>
-			  <div class="card m-5">
+			  <div class="card">
 
 			  	<div class="container">
 				  <div class="row align-items-start">
@@ -54,7 +54,7 @@
 				<hr>
 			    <p class="card-text lato" style="color: #2cb8c7; text-align: left; padding-left: 20px;">Seguir Leyendo</p>
 			  </div>
-			  <div class="card m-5">
+			  <div class="card">
 
 			  	<div class="container">
 				  <div class="row align-items-start">

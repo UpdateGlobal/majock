@@ -1,12 +1,13 @@
 <div class="container-fluid lato" style="background-color: rgba(44, 184, 199, 0.75);">
 	<div class="container">
 			<div class="mx-auto p-5 pt-5" style="width:300px;">
-			  <h3 class="text-white lato" style="padding-left: 50px;">Contáctanos</h3>
-	<!-- 					<div class="row">
-								<div class="col-sm-12 col-md-12">
-							   		<p class="or-divider"><i class="far fa-clone" style="color: #2cb8c7; font-size: 25px;"></i></p>
-								</div>							
-						</div> -->
+			  <h3 class="text-white lato" style="padding-left: 30px;">Contáctanos</h3>
+			  <br>
+				<div class="row" align="center">
+					<div class="col-md-12">
+				   		<img src="img/vineta.png" width="200" class="fluid-img pb-3">
+					</div>							
+				</div>
 			</div>
 				<div class="row" align="center">
 				    <div class="col-sm-12 col-md-5"	>
