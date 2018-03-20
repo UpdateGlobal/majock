@@ -52,7 +52,7 @@
 
 	</div>
 </div>	
-
+<!-- 
 
 <style type="text/css">
   
@@ -63,3 +63,12 @@
     z-index: 999;
   }
 </style>
+
+
+
+<div class="single-skill wow fadeInUp" data-wow-duration="1.5s" data-wow-delay=".3s" style="visibility: visible; animation-duration: 1.5s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                        <div class="progress-circular">
+                                            <div style="display:inline;width:175px;height:80px;"><canvas width="175" height="80"></canvas><input type="text" class="knob knob-nopercent" value="0" data-max="10000" data-min="0" data-anglearc="180" data-angleoffset="270" data-height="80" data-rel="5000" data-linecap="butt" data-width="175" data-bgcolor="#f2f2f2" data-fgcolor="#ef162a" data-thickness=".30" data-readonly="true" disabled="" readonly="readonly" style="width: 91px; height: 58px; position: absolute; vertical-align: middle; margin-top: 58px; margin-left: -133px; border: 0px; background: none; font-style: normal; font-variant: normal; font-weight: bold; font-stretch: normal; font-size: 25px; line-height: normal; font-family: Arial; text-align: center; color: rgb(239, 22, 42); padding: 0px; -webkit-appearance: none;"></div>
+                                            <h4 class="progress-h4">Happy Clients</h4>
+                                        </div>
+                                    </div> -->
